@@ -591,6 +591,7 @@ dependencies = [
  "ahash",
  "arrow",
  "arrow-array",
+ "arrow-cast",
  "arrow-data",
  "arrow-schema",
  "arrow-string",

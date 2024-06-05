@@ -31,6 +31,7 @@ include = [
 parquet-format = "4.0.0" # This must be kept in sync with that from parquet crate
 arrow = { git = "https://github.com/viirya/arrow-rs.git", rev = "3f1ae0c", features = ["prettyprint", "ffi", "chrono-tz"] }
 arrow-array = { git = "https://github.com/viirya/arrow-rs.git", rev = "3f1ae0c" }
+arrow-cast = { git = "https://github.com/viirya/arrow-rs.git", rev = "3f1ae0c" }
 arrow-data = { git = "https://github.com/viirya/arrow-rs.git", rev = "3f1ae0c" }
 arrow-schema = { git = "https://github.com/viirya/arrow-rs.git", rev = "3f1ae0c" }
 arrow-string = { git = "https://github.com/viirya/arrow-rs.git", rev = "3f1ae0c" }
